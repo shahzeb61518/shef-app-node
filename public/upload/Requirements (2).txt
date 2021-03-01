@@ -1,0 +1,49 @@
+All the functionalities i sent by video must be done.
+
+1.Look at shef.com then Yummymaker.com then the new site New.Yummymaker.com (YOU MUST DO THE WORK ONLY ON new.Yummymaker.com)
+
+2.As long as it has the features and functionalities from 
+both my old site and this one then it is fine. We need to 
+have the functionality that allows us to have videos on our site to teach live cooking  
+We may use youtube video. We need to have our blog page with 
+downloadable books we provide free.
+
+3.I do not want mine to look exactly like Shef 
+I want it to look better and different so people do 
+not confuse them. But the I want the same features and functionalities.
+
+4.The registration page must be finished customized, 
+membership page finish the design, and add all the functionalities 
+we requested including how to place the order.
+
+5.Also it is important you follow the old 
+site and keep the content from yummymaker.com for now thank you
+
+
+6.it is finished when all functionalities are tested and performing like can  I place 
+an order from a chef on my site? Is there a user registration? 
+Is the food menu setup for each chef? Is the site fully functioning? 
+Just like I told you before look at the site and it’s functionalities please
+
+7) Zip code and help desk must be working
+
+
+
+Here are the things Yummymaker.com needs to be able to do after you are done:
+1) signup chefs (login signup)...
+2Chef must be bale to show their dishes, Post new meal, offer discount and schedule when they are available for cooking or delivery
+3)customers must be able to log in jus like on chef, find a chef, chose a meal, place the order, see if it is delivered or pick up then leave a review.
+4) payment portal must have ability to accept payment, add service (just like Shef.com, add discount code if there is one and add meals.
+5) payment must also be automated so that all completed transactions are paid off to chef ONLY AFTER 15 DAYS after the transaction! It must happen then. All refunds must be approved by administrator before being process.
+6) The site MUST BE MOBILE FRIENDLY so people can see it on their phone.
+7) Zip code and helpdesk
+8) Become a chef
+9)Search a dish
+and same order functionality as chef.com
+
+THE DISH MUST HAVE A FULL DESCRIPTION OF WHAT IS IN THEM JUST LIKE IN SHEF OF COURSE!
+
+
+EVERYTHING WILL BE TESTED! 
+
+Thank you.
